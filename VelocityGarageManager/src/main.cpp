@@ -1,23 +1,18 @@
 /*
 =========================================================
-            Velocity Garage Manager v2.0
+                Velocity Garage Manager
 =========================================================
 
-A professional console-based garage inventory management
-system written in Modern C++17.
+Main Features:
+- Add, remove, and manage cars
+- Search cars by manufacturer
+- Persistent database using file storage
+- Duplicate entry detection
+- Garage statistics and analytics
+- Sorting and filtering system
+- Console-based interactive UI
+- Modern STL usage and clean OOP design
 
-Features:
-- Object-Oriented Architecture
-- Persistent File Storage
-- Advanced Search & Filtering
-- Car Statistics Dashboard
-- Duplicate Prevention
-- Sorting & Analytics
-- Exception Handling
-- Clean Console UI
-- Modern STL Usage
-
-Author: Your Name
 =========================================================
 */
 
