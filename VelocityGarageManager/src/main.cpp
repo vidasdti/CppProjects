@@ -352,7 +352,7 @@ int main() {
 
     Garage garage;
 
-    garage.load("garage_database.txt");
+    garage.load("../garage_database.txt");
 
     int choice;
 
@@ -434,16 +434,12 @@ int main() {
             }
 
             else if (choice == 6) {
-                garage.save(
-                    "garage_database.txt"
-                );
+                garage.save("../garage_database.txt");
             }
 
             else if (choice == 7) {
 
-                garage.save(
-                    "garage_database.txt"
-                );
+                garage.save("../garage_database.txt");
 
                 cout << "\nExiting system...\n";
             }
