@@ -1,6 +1,6 @@
 # Velocity Garage Manager
 
-A modern C++17 garage inventory management system designed with clean software engineering principles and modern STL practices.
+A modern C++ garage management project focused on object-oriented design, STL usage, and file-based data persistence.
 
 ---
 
