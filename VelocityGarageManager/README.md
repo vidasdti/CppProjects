@@ -6,26 +6,23 @@ A modern C++ garage management project focused on object-oriented design, STL us
 
 ## Features
 
-- Modern Object-Oriented Design
-- Persistent File Storage
-- Duplicate Car Prevention
-- Advanced Search System
-- Garage Analytics Dashboard
-- Sorting & Filtering
-- Exception Handling
-- Clean Console UI
-- Modern STL Algorithms
-- Structured Data Serialization
+- Add, remove, and manage cars
+- Search cars by manufacturer
+- Persistent database using file storage
+- Duplicate entry detection
+- Garage statistics and analytics
+- Sorting and filtering system
+- Console-based interactive UI
+- Modern STL usage and clean OOP design
 
 ---
 
-## Technologies Used
+## Technologies
 
 - C++17
-- STL
-- File Handling
+- STL containers and algorithms
+- File I/O
 - Object-Oriented Programming
-- Modern C++ Practices
 
 ---
 
