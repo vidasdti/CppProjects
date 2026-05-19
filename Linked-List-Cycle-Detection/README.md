@@ -23,13 +23,18 @@ Loop start position
 ## Example
 
 Input:
+
+```text
 10 20 30 40 50 60 70 80
 2
+```
 
 Output:
+
+```text
 Loop detected successfully.
 Cycle starts at node value: 30
-
+```
 ## Algorithms Used
 
 - Floyd's Tortoise and Hare Algorithm
