@@ -6,7 +6,7 @@ After each cut, the program calculates the area of the largest remaining cake pi
 
 ---
 
-## Problem Description
+# Problem Description
 
 You are given a rectangular cake with width `X` and height `Y`.
 
@@ -19,44 +19,51 @@ After every cut, output the area of the largest remaining rectangular piece.
 
 ---
 
-## Example
+# Example
 
-Input:
+## Input
+
 8 6 3
 V 3
 H 2
 V 6
 
-Output:
-30
-20
-12
+---
+
+## Output
+
+Largest Remaining Piece Area = 30
+Largest Remaining Piece Area = 20
+Largest Remaining Piece Area = 12
 
 ---
 
-## Algorithms & Data Structures
+# Algorithms & Data Structures
 
 - Ordered Set (`std::set`)
-- Interval Tracking
-- Dynamic Geometry Simulation
+- Dynamic Interval Splitting
+- Geometry Simulation
 
 ---
 
-## Time Complexity
+# Time Complexity
 
 Current implementation:
+
 O(Q × N)
 
 Possible optimization:
+
 O(Q log N)
 
 ---
 
-## Features
+# Features
 
-- Real-time rectangle splitting
-- Dynamic maximum area calculation
-- Efficient interval management
+- Dynamic cake cutting simulation
+- Real-time maximum area calculation
+- Clean object-oriented design
 - Competitive programming style solution
+- Beginner-friendly implementation
 
 ---
