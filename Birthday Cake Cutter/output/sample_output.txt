@@ -1,0 +1,3 @@
+Largest Remaining Piece Area = 30
+Largest Remaining Piece Area = 20
+Largest Remaining Piece Area = 12
