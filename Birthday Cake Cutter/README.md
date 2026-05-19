@@ -23,18 +23,22 @@ After every cut, output the area of the largest remaining rectangular piece.
 
 ## Input
 
+```text
 8 6 3
 V 3
 H 2
 V 6
+```
 
 ---
 
 ## Output
 
+```text
 Largest Remaining Piece Area = 30
 Largest Remaining Piece Area = 20
 Largest Remaining Piece Area = 12
+```
 
 ---
 
