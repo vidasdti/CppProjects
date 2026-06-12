@@ -28,28 +28,28 @@ A modern C++ matrix library built using templates, STL vectors, and operator ove
 
 ### Input
 
-Matrix A:
-
+### Matrix A:
+```
 1 2
 3 4
-
-Matrix B:
-
+```
+### Matrix B:
+```
 5 6
 7 8
-
+```
 ### Output
 
 A + B
-
+```
 6   8
 10  12
-
+```
 A * B
-
+```
 19  22
 43  50
-
+```
 ---
 
 ## Why STL Vector?
