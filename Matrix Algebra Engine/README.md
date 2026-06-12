@@ -28,12 +28,12 @@ A modern C++ matrix library built using templates, STL vectors, and operator ove
 
 ### Input
 
-### Matrix A:
+Matrix A:
 ```
 1 2
 3 4
 ```
-### Matrix B:
+Matrix B:
 ```
 5 6
 7 8
